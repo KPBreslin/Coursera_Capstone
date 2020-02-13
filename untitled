@@ -1,4 +1,7 @@
-//markdowns text.
-import pandas as pd 
-import numpty as np 
-print("Hello Capstone Project Course")
+# This file will be used for the Capstone Project_
+#import pandas as pd
+	 import pandas as pd
+#import numpy as nd
+	import numpy as np
+#print out greeting 
+	print ("Hello Capstone Project Course.")
